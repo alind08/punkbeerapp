@@ -1,6 +1,6 @@
 # punkbeerapp
 
-A new Flutter assignment from Frogbit.co founded on Angel.co.
+A simple flutter app with API integration.
 
 ## Getting Started
 
